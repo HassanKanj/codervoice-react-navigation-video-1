@@ -4,7 +4,7 @@
 
 https://www.youtube.com/watch?v=Kivp8StdvGI
 
-usage:
+**usage:**
 
 1- git clone https://github.com/HassanKanj/codervoice-react-navigation-video-1
 
