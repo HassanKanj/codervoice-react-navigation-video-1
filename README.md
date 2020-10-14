@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=Kivp8StdvGI
 
 3- expo start
 
+**credits**
+
+The code is based on react navigation documentation: https://reactnavigation.org/docs/getting-started
