@@ -4,3 +4,11 @@
 
 https://www.youtube.com/watch?v=Kivp8StdvGI
 
+usage:
+
+1- git clone https://github.com/HassanKanj/codervoice-react-navigation-video-1
+
+2- yarn install
+
+3- expo start
+
